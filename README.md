@@ -1,2 +1,2 @@
 # GitTest
-Testing Git Funcitonalities
+Testing Subversion Funcitonalities
